@@ -4,7 +4,7 @@
 - 😁 I’m looking to collaborate on any development project
 - 📫 How to reach me:
   You can reach out through my socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritul-vaghela-89b7b6249/)  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/ritul_vaghela)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritul-vaghela-89b7b6249/)  [![Twitter(X)](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=black)](https://x.com/ritul_vaghela)
 
 <!---
 RitulV/RitulV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
