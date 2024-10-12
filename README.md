@@ -1,7 +1,7 @@
 ### :man_technologist: About Me :
 - 👋 Hi, I’m Ritul, a computer science student
 - 👀 I’m interested in Data Analytics, Machine Learning and Web Development
-- 🌱 I’m currently learning Full Stack development
+- 🌱 I’m currently working on Full Stack development
 - 😁 I’m looking to collaborate on any development project
 - 📫 How to reach me:
   You can reach out through my socials
