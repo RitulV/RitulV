@@ -7,7 +7,7 @@
   You can reach out through my socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritul-vaghela-89b7b6249/)  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/ritul_vaghela)
 
-### :Languages and tools:
+### :hammer_and_wrench: Tech Stack :
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -32,6 +32,12 @@
   <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" title="sql" alt="sql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongo" alt="mongo" width="40" height="40"/>&nbsp;
+</div>
+
+<div align="center">
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RitulV&theme=solarized)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RitulV&theme=solarized)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RitulV&theme=solarized)
 </div>
 
 
