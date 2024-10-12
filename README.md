@@ -35,9 +35,8 @@
 </div>
 
 <div align="center">
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RitulV&theme=solarized)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RitulV&theme=solarized)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RitulV&theme=solarized)
+  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ritul-Vaghela&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
 
 
