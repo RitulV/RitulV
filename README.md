@@ -4,7 +4,8 @@
 - 🌱 I’m currently working on Full Stack development
 - 😁 I’m looking to collaborate on any development project
 - 📫 How to reach me:
-  You can reach out through my socials
+
+### Reach out through my socials
 <p align="left">
 <a href="https://x.com/ritul_vaghela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ritul_vaghela" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ritul-vaghela-89b7b6249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritul-vaghela" height="30" width="40" /></a>
