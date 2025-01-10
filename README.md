@@ -3,7 +3,6 @@
 - 👀 I’m interested in Data Analytics and Web Development
 - 🌱 I’m currently working on Full Stack development
 - 😁 I’m looking to collaborate on any development project
-- 📫 How to reach me:
 
 ### Reach out through my socials
 <p align="left">
